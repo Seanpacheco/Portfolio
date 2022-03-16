@@ -1,0 +1,20 @@
+{
+    "display": "fullscreen",
+    "name": "Sean Pacheco Web Development",
+    "short_name": "SP WebDev",
+    "description": "Let me help you build your website.",
+    "start_url": "www.seanpacheco.com",
+    "background_color": "#2e3141",
+    "theme_color": "#2e3141",
+    "icons": [{
+      "src": "images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+    "src": "images/maskable_icon_x192",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "maskable"
+    }]
+  }
